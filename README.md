@@ -1,4 +1,4 @@
-# Pong Game
+# Ping - Pong Game
 
 This is a simple implementation of the classic game Pong using HTML5 canvas and JavaScript. The game allows two players to control paddles and compete against each other to score points by hitting the ball past their opponent's paddle.
 
